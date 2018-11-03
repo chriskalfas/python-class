@@ -1,0 +1,6 @@
+Financial Analysis
+Total Months: 86
+Total net P&L: $38382578
+Average change in P&L: $446309.05
+Largest increase in profits: ['Sep-2016' 1170593]
+Largest decrease in profits: ['Apr-2010' -1196225]
